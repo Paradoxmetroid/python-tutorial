@@ -23,6 +23,13 @@ everything should also work on Python 3.3, 3.2 and all newer Pythons.
 
 ## List of contents
 
+The tutorial consists of two parts. The Basics part will get you started 
+with using Python and you'll be able to get things done after studying 
+it. If you get interested in learning Python and you want to learn more 
+advanced techniques, you can also read the Advanced part.
+
+#### Basics
+
 1. [What is programming?](what-is-programming.md)
 2. [Installing Python](installing-python.md)
 3. [Getting started with Python](getting-started.md)
@@ -42,7 +49,13 @@ everything should also work on Python 3.3, 3.2 and all newer Pythons.
 17. [Modules](modules.md)
 18. [Classes](classes.md)
 
-Other things this tutorial comes with:
+#### Advanced
+
+19. does
+20. this
+21. work
+
+#### Other things this tutorial comes with
 
 - **Important:** [getting help](getting-help.md)
 - [Contact me](contact-me.md)
